@@ -1,0 +1,30 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasaCorretorAPI", "CasaCorretorAPI\CasaCorretorAPI.csproj", "{09E9A697-6B6D-7DF7-9E81-42DFC658501B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasaCorretorTests", "CasaCorretorTests\CasaCorretorTests.csproj", "{749BD690-1B09-4C59-A80E-59B08225EB43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09E9A697-6B6D-7DF7-9E81-42DFC658501B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09E9A697-6B6D-7DF7-9E81-42DFC658501B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09E9A697-6B6D-7DF7-9E81-42DFC658501B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09E9A697-6B6D-7DF7-9E81-42DFC658501B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{749BD690-1B09-4C59-A80E-59B08225EB43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{749BD690-1B09-4C59-A80E-59B08225EB43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{749BD690-1B09-4C59-A80E-59B08225EB43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{749BD690-1B09-4C59-A80E-59B08225EB43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF0809A6-6B5E-45A7-B20A-CBDBEEE68F7E}
+	EndGlobalSection
+EndGlobal

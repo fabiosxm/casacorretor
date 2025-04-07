@@ -1,0 +1,13 @@
+@CasaCorretorAPI_HostAddress = http://localhost:5057
+
+GET {{CasaCorretorAPI_HostAddress}}/segurovida/
+Accept: application/json
+
+//POST {{CasaCorretorAPI_HostAddress}}/segurovida/
+//Content-Type: application/json
+//{
+//    "nome": "Fabio Seixas",
+//    "cpf": "05621058755",
+//    "datanascimento": "2025-10-10"
+//}
+###
